@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CMD-101",
+    "date": "2026-09-02",
+    "customer": "C-42",
+    "status": "PAID",
+    "lines": [
+      { "sku": "CLAVIER", "category": "informatique", "qty": 2, "unitPrice": 49 },
+      { "sku": "SOURIS", "category": "informatique", "qty": 1, "unitPrice": 19 }
+    ]
+  },
+  {
+    "id": "CMD-102",
+    "date": "2026-09-05",
+    "customer": "C-07",
+    "status": "PAID",
+    "lines": [{ "sku": "LIVRE-DDD", "category": "livres", "qty": 1, "unitPrice": 45 }]
+  },
+  {
+    "id": "CMD-103",
+    "date": "2026-09-09",
+    "customer": "C-42",
+    "status": "CANCELLED",
+    "lines": [
+      { "sku": "ECRAN", "category": "informatique", "qty": 1, "unitPrice": 299 }
+    ]
+  },
+  {
+    "id": "CMD-104",
+    "date": "2026-09-21",
+    "customer": "C-13",
+    "status": "PAID",
+    "lines": [
+      { "sku": "ECRAN", "category": "informatique", "qty": 1, "unitPrice": 299 },
+      { "sku": "LIVRE-DDD", "category": "livres", "qty": 2, "unitPrice": 45 }
+    ]
+  },
+  {
+    "id": "CMD-105",
+    "date": "2026-10-01",
+    "customer": "C-07",
+    "status": "PAID",
+    "lines": [
+      { "sku": "SOURIS", "category": "informatique", "qty": 3, "unitPrice": 19 }
+    ]
+  }
+]
